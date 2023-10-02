@@ -43,3 +43,4 @@ int main(){
 	cin>>s2;
 	cout<<"Edit Distance is - "<<editDistance(s1, s2)<<endl;
 }
+return 0;
